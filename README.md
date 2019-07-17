@@ -1,3 +1,5 @@
+# Demo
+https://inkychew.github.io/ChatRoom_vue.js/index.html
 # chat_room
 
 > chat room build with vue-cli
